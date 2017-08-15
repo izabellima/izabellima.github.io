@@ -293,6 +293,7 @@ button:hover {
 
 .contact-info a:hover{
   color: #1A535C;
+
 }
 
 i {
@@ -308,6 +309,7 @@ i {
 a:focus {
   text-decoration: none;
   outline: none;
+  color: white;
 }
 
 /* MOBILE PORTRAIT */
